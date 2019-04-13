@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.0"
     },
-    
+
     "require-dev": {
         "ext-curl": "*"
     },
@@ -21,5 +21,5 @@
         "psr-4": {
             "AloneHack\\Check\\": "src/"
         }
-    },
+    }
 }
