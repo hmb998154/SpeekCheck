@@ -1,10 +1,10 @@
 <?php 
-namespace AloneHack\Check\Public;
+namespace AloneHack\Check\Test;
 
 /**
  * composer测试类
  */
-class Test
+class Tests
 {
 
 	/**
