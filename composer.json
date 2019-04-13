@@ -10,11 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-     "require": {
-        "php": ">=5.0",
+    "require": {
+        "php": ">=5.0"
     },
     "require-dev": {
-        "ext-curl": "*",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
