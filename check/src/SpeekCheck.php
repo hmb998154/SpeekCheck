@@ -1,5 +1,5 @@
 <?php
-namespace SpeekCheck;
+namespace AloneHack\Check;
 /**
  * 极验行为式验证类
  *

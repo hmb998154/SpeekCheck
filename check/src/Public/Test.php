@@ -1,5 +1,5 @@
 <?php 
-namespace SpeekCheck\Public;
+namespace AloneHack\Check\Public;
 
 /**
  * composer测试类
