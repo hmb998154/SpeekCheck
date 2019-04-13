@@ -27,3 +27,12 @@ class Tests
 	}
 
 }
+
+/**
+ * read
+ *
+ * @return [type] [description]
+ */
+function read(){
+	echo "read";
+}
