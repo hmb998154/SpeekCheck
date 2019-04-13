@@ -1,0 +1,24 @@
+{
+    "name": "alonehack/speedcheck",
+    "description": "极速验证",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hmb998154",
+            "email": "hmb998154@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+     "require": {
+        "php": ">=5.0",
+    },
+    "require-dev": {
+        "ext-curl": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "SpeedCheck\\": "src/"
+        }
+    },
+}
